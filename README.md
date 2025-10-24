@@ -1,10 +1,10 @@
 <!-- Banner / Introduction -->
 <h1 align="center">Hi 👋, I'm Hou Menghor</h1>
-<h3 align="center">🚀 Web Backend | IT Student</h3>
+<h3 align="center">🚀 Backend Developer | IT Student</h3>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F82E0&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+In+Progress;4th+Year+IT+Student;Passionate+About+Learning+New+Tech;Building+Practical+Solutions" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F82E0&center=true&vCenter=true&width=600&lines=Backend+Developer+In+Progress;4th+Year+IT+Student;Passionate+About+Learning+New+Tech;Building+Practical+Solutions" alt="Typing Animation" />
 </p>
 
 ---
