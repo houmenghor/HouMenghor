@@ -1,6 +1,6 @@
 <!-- Banner / Introduction -->
 <h1 align="center">Hi 👋, I'm Hou Menghor</h1>
-<h3 align="center">🚀 Web Developer | IT Student | Aspiring Full Stack Developer</h3>
+<h3 align="center">🚀 Web Backend | IT Student</h3>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 - 🌱 Currently a **4th Year IT Student** at Royal University of Phnom Penh  
 - 🎯 Goal: Become a **Full Stack Developer**  
-- 🛠 Skills: **HTML, CSS, Bootstrap, JavaScript, jQuery, PHP, Laravel, Vue.js, React.js (basic)**  
+- 🛠 Skills: **HTML, CSS, Bootstrap, PHP, Laravel**  
 - 🎨 UX/UI Design (basic knowledge)  
 - 📍 Based in Phnom Penh, Cambodia  
 
@@ -20,7 +20,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,php,laravel,vue,react,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,laravel,git,github,vscode" />
 </p>
 
 ---
