@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 - 🌱 Currently a **4th Year IT Student** at Royal University of Phnom Penh  
 - 🎯 Goal: Become a **Full Stack Developer**  
-- 🛠 Skills: **HTML, CSS, Bootstrap, PHP, Laravel, Vue.js and React.js (basic)**  
+- 🛠 Skills: **HTML, CSS, Bootstrap, PHP, Laravel, (Vue.js and React.js basic)**  
 - 🎨 UX/UI Design (basic knowledge)  
 - 📍 Based in Phnom Penh, Cambodia  
 
@@ -20,7 +20,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vue,react,php,laravel,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vue,react,php,laravel,git,github,vscode,postman" />
 </p>
 
 ---
