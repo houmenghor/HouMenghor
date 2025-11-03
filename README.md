@@ -23,10 +23,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vue,react,php,laravel,git,github,vscode,postman" />
 </p>
 
----
-
-### 🌍 Portfolio
-🔗 [My Portfolio Website](https://menghorhou.vercel.app/)  
 
 ---
 
