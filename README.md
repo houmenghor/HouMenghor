@@ -1,6 +1,6 @@
 <!-- Banner / Introduction -->
 <h1 align="center">Hi 👋, I'm Hou Menghor</h1>
-<h3 align="center">🚀 Backend Developer | IT Student</h3>
+<h3 align="center">🚀 Web Developer | IT Student</h3>
 
 <!-- Typing Animation -->
 <p align="center">
