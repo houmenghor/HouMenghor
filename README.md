@@ -20,7 +20,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vue,react,php,laravel,postgres,figma,git,github,vscode,postman" />
 </p>
