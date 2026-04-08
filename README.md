@@ -1,6 +1,6 @@
 <!-- Banner / Introduction -->
-<h1 align="center">Hi 👋, I'm Hou Menghor</h1>
-<h3 align="center">🚀 Web Developer | Computer Science Graduate</h3>
+<h1 align="center">Hi everyone, I'm Hou Menghor</h1>
+<h3 align="center">Web Developer | Computer Science Graduate</h3>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -9,14 +9,14 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 **Computer Science Graduate** from the Royal University of Phnom Penh  
-- 🎯 Goal: Building impactful applications as a **Full Stack Developer**  
-- 🛠 Frontend: **HTML, CSS, Bootstrap, JavaScript, Vue.js, React.js (basic)**  
-- ⚙️ Backend & DB: **PHP, Laravel, PostgreSQL, RESTful API**
-- 🎨 UX/UI Design: **Figma**  
-- 🗣️ Languages: **Khmer (Native), English (Intermediate)**
-- 📍 Based in Phnom Penh, Cambodia  
+### About Me
+- **Computer Science Graduate** from the Royal University of Phnom Penh  
+- Goal: Building impactful applications as a **Full Stack Developer**  
+- Frontend: **HTML, CSS, Bootstrap, JavaScript, Vue.js, React.js (basic)**  
+- Backend & DB: **PHP, Laravel, PostgreSQL, RESTful API**
+- UX/UI Design: **Figma**  
+- Languages: **Khmer (Native), English (Intermediate)**
+- Based in Phnom Penh, Cambodia  
 
 ---
 
@@ -27,7 +27,7 @@
 
 ---
 
-### 📫 Contact Me
-- 📧 Email: [menghorhou@gmail.com](mailto:menghorhou@gmail.com)  
-- 📱 Phone: **+855 87 947 425**  
-- 💬 Telegram: [@houmenghor](https://t.me/houmenghor)
+### Contact Me
+- Email: [menghorhou@gmail.com](mailto:menghorhou@gmail.com)  
+- Phone: **+855 87 947 425**  
+- Telegram: [@houmenghor](https://t.me/houmenghor)
